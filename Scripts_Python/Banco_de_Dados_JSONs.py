@@ -24,4 +24,14 @@ body_dict
 
 df = pd.json_normalize(body_dict)
 
+# Convertendo a classificação das variaveis corretas
+df['Id'] = df['Id'].astype(str)
+df['Conta'] = df['Conta'].astype(str)
+df['Data'] = df['Data'].astype(str)
+df['Consumo'] = df['Consumo'].astype(str).astype(int)
+df['Dias_de_Consumo'] = df['Dias_de_Consumo'].astype(str).astype(int)
+df['Pago'] = df['Pago'].astype(str)
+
+#Calculando o consumo diario e alterando as unidade de medidas da agua e luz
+df["Consumo_Diario"] = (df.Consumo/df.Dias_de_Consumo)
 df
