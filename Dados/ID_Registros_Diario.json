@@ -5,7 +5,8 @@
     "Data": "10/2021",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 679,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 0
   },
   {
     "Id": "150522",
@@ -13,7 +14,8 @@
     "Data": "05/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 536,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -143
   },
   {
     "Id": "200622",
@@ -21,7 +23,8 @@
     "Data": "06/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 625,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 89
   },
   {
     "Id": "180722",
@@ -29,7 +32,8 @@
     "Data": "07/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 562,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -63
   },
   {
     "Id": "170822",
@@ -37,7 +41,8 @@
     "Data": "08/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 607,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 45
   },
   {
     "Id": "210922",
@@ -45,7 +50,8 @@
     "Data": "09/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 677,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 70
   },
   {
     "Id": "171022",
@@ -53,7 +59,8 @@
     "Data": "10/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 548,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -129
   },
   {
     "Id": "201122",
@@ -61,7 +68,8 @@
     "Data": "11/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 625,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 77
   },
   {
     "Id": "161222",
@@ -69,7 +77,8 @@
     "Data": "12/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 552,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -73
   },
   {
     "Id": "150123",
@@ -77,7 +86,8 @@
     "Data": "01/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 484,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -68
   },
   {
     "Id": "200223",
@@ -85,7 +95,8 @@
     "Data": "02/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 645,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 161
   },
   {
     "Id": "170323",
@@ -93,7 +104,8 @@
     "Data": "03/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 607,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -38
   },
   {
     "Id": "150423",
@@ -101,7 +113,8 @@
     "Data": "04/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 484,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -123
   },
   {
     "Id": "160523",
@@ -109,7 +122,8 @@
     "Data": "05/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 552,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 68
   },
   {
     "Id": "170623",
@@ -117,7 +131,8 @@
     "Data": "06/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 548,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -4
   },
   {
     "Id": "190723",
@@ -125,7 +140,8 @@
     "Data": "07/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 543,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -5
   },
   {
     "Id": "160823",
@@ -133,7 +149,8 @@
     "Data": "08/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 571,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 28
   },
   {
     "Id": "200923",
@@ -141,7 +158,8 @@
     "Data": "09/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 667,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 96
   },
   {
     "Id": "181023",
@@ -149,7 +167,8 @@
     "Data": "10/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 600,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -67
   },
   {
     "Id": "191123",
@@ -157,7 +176,8 @@
     "Data": "11/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 594,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -6
   },
   {
     "Id": "171223",
@@ -165,7 +185,8 @@
     "Data": "12/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 567,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -27
   },
   {
     "Id": "140124",
@@ -173,7 +194,8 @@
     "Data": "01/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 438,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -129
   },
   {
     "Id": "160224",
@@ -181,7 +203,8 @@
     "Data": "02/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 571,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 133
   },
   {
     "Id": "200324",
@@ -189,7 +212,8 @@
     "Data": "03/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 690,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 119
   },
   {
     "Id": "230424",
@@ -197,7 +221,8 @@
     "Data": "04/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 767,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 77
   },
   {
     "Id": "210524",
@@ -205,7 +230,8 @@
     "Data": "05/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 636,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": -131
   },
   {
     "Id": "230624",
@@ -213,7 +239,8 @@
     "Data": "06/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 742,
-    "Unidade_Medida": "L"
+    "Unidade_Medida": "L",
+    "Despesa": 106
   },
   {
     "Id": "170821",
@@ -221,7 +248,8 @@
     "Data": "08/2021",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5774,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 0
   },
   {
     "Id": "230921",
@@ -229,7 +257,8 @@
     "Data": "09/2021",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 7030,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 1256
   },
   {
     "Id": "221021",
@@ -237,7 +266,8 @@
     "Data": "10/2021",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 7893,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 863
   },
   {
     "Id": "241121",
@@ -245,7 +275,8 @@
     "Data": "11/2021",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 7333,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -560
   },
   {
     "Id": "161221",
@@ -253,7 +284,8 @@
     "Data": "12/2021",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5419,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -1914
   },
   {
     "Id": "150122",
@@ -261,7 +293,8 @@
     "Data": "01/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5207,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -212
   },
   {
     "Id": "180222",
@@ -269,7 +302,8 @@
     "Data": "02/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5968,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 761
   },
   {
     "Id": "240322",
@@ -277,7 +311,8 @@
     "Data": "03/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 8679,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 2711
   },
   {
     "Id": "220422",
@@ -285,7 +320,8 @@
     "Data": "04/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 7533,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -1146
   },
   {
     "Id": "180522",
@@ -293,7 +329,8 @@
     "Data": "05/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5606,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -1927
   },
   {
     "Id": "150622",
@@ -301,7 +338,8 @@
     "Data": "06/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5357,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -249
   },
   {
     "Id": "170722",
@@ -309,7 +347,8 @@
     "Data": "07/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5710,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 353
   },
   {
     "Id": "190822",
@@ -317,7 +356,8 @@
     "Data": "08/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5938,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 228
   },
   {
     "Id": "160922",
@@ -325,7 +365,8 @@
     "Data": "09/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5828,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -110
   },
   {
     "Id": "171022",
@@ -333,7 +374,8 @@
     "Data": "10/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5967,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 139
   },
   {
     "Id": "181122",
@@ -341,7 +383,8 @@
     "Data": "11/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5667,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -300
   },
   {
     "Id": "151222",
@@ -349,7 +392,8 @@
     "Data": "12/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 4871,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -796
   },
   {
     "Id": "140123",
@@ -357,7 +401,8 @@
     "Data": "01/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5143,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 272
   },
   {
     "Id": "200223",
@@ -365,7 +410,8 @@
     "Data": "02/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 6452,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 1309
   },
   {
     "Id": "200323",
@@ -373,7 +419,8 @@
     "Data": "03/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 6700,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 248
   },
   {
     "Id": "190423",
@@ -381,7 +428,8 @@
     "Data": "04/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 6655,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -45
   },
   {
     "Id": "140523",
@@ -389,7 +437,8 @@
     "Data": "05/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5069,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -1586
   },
   {
     "Id": "170623",
@@ -397,7 +446,8 @@
     "Data": "06/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5531,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 462
   },
   {
     "Id": "180723",
@@ -405,7 +455,8 @@
     "Data": "07/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5968,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 437
   },
   {
     "Id": "210823",
@@ -413,7 +464,8 @@
     "Data": "08/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 6594,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 626
   },
   {
     "Id": "170923",
@@ -421,7 +473,8 @@
     "Data": "09/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 5862,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -732
   },
   {
     "Id": "211023",
@@ -429,7 +482,8 @@
     "Data": "10/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 7033,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 1171
   },
   {
     "Id": "211123",
@@ -437,7 +491,8 @@
     "Data": "11/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 6394,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -639
   },
   {
     "Id": "281223",
@@ -445,7 +500,8 @@
     "Data": "12/2023",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 8545,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 2151
   },
   {
     "Id": "180124",
@@ -453,7 +509,8 @@
     "Data": "01/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 6276,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -2269
   },
   {
     "Id": "220224",
@@ -461,7 +518,8 @@
     "Data": "02/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 8107,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 1831
   },
   {
     "Id": "320324",
@@ -469,7 +527,8 @@
     "Data": "03/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 10548,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 2441
   },
   {
     "Id": "270424",
@@ -477,7 +536,8 @@
     "Data": "04/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 9679,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": -869
   },
   {
     "Id": "320524",
@@ -485,6 +545,7 @@
     "Data": "05/2024",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 10125,
-    "Unidade_Medida": "Wh"
+    "Unidade_Medida": "Wh",
+    "Despesa": 446
   }
 ]
