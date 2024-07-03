@@ -58,6 +58,26 @@ df2["Unidade_Medida"] = np.where(df['Unidade_Medida'] == 'm³',
                                  'Wh')
 
 
+# Criação de uma função que faça as 'Despesas'
+def Despesa(Conta):
+
+  despesa_consumo = [0]
+  list_len_conta = [x+1 for x in range(len(df2[df2.Conta == Conta]))]
+
+  print("Iniciandodo o cálculo das despesas de consumo na conta de", Conta)
+  for index in list_len_conta:
+      if index != df2[df2.Conta == Conta].shape[0]:
+        razao_despesa = df2.loc[df2.Conta == Conta, "Consumo_Medio_Diario"].iloc[index] - \
+                        df2.loc[df2.Conta == Conta, "Consumo_Medio_Diario"].iloc[index-1]
+        despesa_consumo = despesa_consumo + [razao_despesa]
+      else:
+        print("Cálculo das despesas de consumo na conta de", Conta, "feita com sucesso")
+    
+  return despesa_consumo
+  
+df2["Despesa"] = Despesa("Água") + Despesa("Luz")
+
+
 #   Converta o banco de dados em dicionários e logo depois para JSON 
 # (o banco de dados json será demostrado ao imprimir o codigo)
 json_result = js.dumps(df2.to_dict('records'))
