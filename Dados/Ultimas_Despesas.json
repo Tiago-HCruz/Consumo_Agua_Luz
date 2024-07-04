@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "320524",
+    "Conta": "Luz",
+    "Despesa": 446,
+    "Unidade_Medida": "Wh",
+    "Ano": "2024",
+    "Mês": "05"
+  },
+  {
+    "Id": "230624",
+    "Conta": "Água",
+    "Despesa": 106,
+    "Unidade_Medida": "L",
+    "Ano": "2024",
+    "Mês": "06"
+  }
+]
