@@ -1,0 +1,551 @@
+[
+  {
+    "Id": "190921",
+    "Conta": "Água",
+    "Data": "09/2021",
+    "Consumo": "19",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "150422",
+    "Conta": "Água",
+    "Data": "04/2022",
+    "Consumo": "15",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "200522",
+    "Conta": "Água",
+    "Data": "05/2022",
+    "Consumo": "20",
+    "Dias_de_Consumo": "32",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "180622",
+    "Conta": "Água",
+    "Data": "06/2022",
+    "Consumo": "18",
+    "Dias_de_Consumo": "32",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "170722",
+    "Conta": "Água",
+    "Data": "07/2022",
+    "Consumo": "17",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "210822",
+    "Conta": "Água",
+    "Data": "08/2022",
+    "Consumo": "21",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "170922",
+    "Conta": "Água",
+    "Data": "09/2022",
+    "Consumo": "17",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "201022",
+    "Conta": "Água",
+    "Data": "10/2022",
+    "Consumo": "20",
+    "Dias_de_Consumo": "32",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "161122",
+    "Conta": "Água",
+    "Data": "11/2022",
+    "Consumo": "16",
+    "Dias_de_Consumo": "29",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "151222",
+    "Conta": "Água",
+    "Data": "12/2022",
+    "Consumo": "15",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "200123",
+    "Conta": "Água",
+    "Data": "01/2023",
+    "Consumo": "20",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "170223",
+    "Conta": "Água",
+    "Data": "02/2023",
+    "Consumo": "17",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "150323",
+    "Conta": "Água",
+    "Data": "03/2023",
+    "Consumo": "15",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "160423",
+    "Conta": "Água",
+    "Data": "04/2023",
+    "Consumo": "16",
+    "Dias_de_Consumo": "29",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "170523",
+    "Conta": "Água",
+    "Data": "05/2023",
+    "Consumo": "17",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "190623",
+    "Conta": "Água",
+    "Data": "06/2023",
+    "Consumo": "19",
+    "Dias_de_Consumo": "35",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "160723",
+    "Conta": "Água",
+    "Data": "07/2023",
+    "Consumo": "16",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "200823",
+    "Conta": "Água",
+    "Data": "08/2023",
+    "Consumo": "20",
+    "Dias_de_Consumo": "30",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "180923",
+    "Conta": "Água",
+    "Data": "09/2023",
+    "Consumo": "18",
+    "Dias_de_Consumo": "30",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "191023",
+    "Conta": "Água",
+    "Data": "10/2023",
+    "Consumo": "19",
+    "Dias_de_Consumo": "32",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "171123",
+    "Conta": "Água",
+    "Data": "11/2023",
+    "Consumo": "17",
+    "Dias_de_Consumo": "30",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "141223",
+    "Conta": "Água",
+    "Data": "12/2023",
+    "Consumo": "14",
+    "Dias_de_Consumo": "32",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "160124",
+    "Conta": "Água",
+    "Data": "01/2024",
+    "Consumo": "16",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "200224",
+    "Conta": "Água",
+    "Data": "02/2024",
+    "Consumo": "20",
+    "Dias_de_Consumo": "29",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "230324",
+    "Conta": "Água",
+    "Data": "03/2024",
+    "Consumo": "23",
+    "Dias_de_Consumo": "30",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "210424",
+    "Conta": "Água",
+    "Data": "04/2024",
+    "Consumo": "21",
+    "Dias_de_Consumo": "33",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "230524",
+    "Conta": "Água",
+    "Data": "05/2024",
+    "Consumo": "23",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "m³"
+  },
+  {
+    "Id": "170721",
+    "Conta": "Luz",
+    "Data": "07/2021",
+    "Consumo": "179",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "230821",
+    "Conta": "Luz",
+    "Data": "08/2021",
+    "Consumo": "232",
+    "Dias_de_Consumo": "33",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "220921",
+    "Conta": "Luz",
+    "Data": "09/2021",
+    "Consumo": "221",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "241021",
+    "Conta": "Luz",
+    "Data": "10/2021",
+    "Consumo": "242",
+    "Dias_de_Consumo": "33",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "161121",
+    "Conta": "Luz",
+    "Data": "11/2021",
+    "Consumo": "168",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "151221",
+    "Conta": "Luz",
+    "Data": "12/2021",
+    "Consumo": "151",
+    "Dias_de_Consumo": "29",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "180122",
+    "Conta": "Luz",
+    "Data": "01/2022",
+    "Consumo": "185",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "240222",
+    "Conta": "Luz",
+    "Data": "02/2022",
+    "Consumo": "243",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "220322",
+    "Conta": "Luz",
+    "Data": "03/2022",
+    "Consumo": "226",
+    "Dias_de_Consumo": "30",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "180422",
+    "Conta": "Luz",
+    "Data": "04/2022",
+    "Consumo": "185",
+    "Dias_de_Consumo": "33",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "150522",
+    "Conta": "Luz",
+    "Data": "05/2022",
+    "Consumo": "150",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "170622",
+    "Conta": "Luz",
+    "Data": "06/2022",
+    "Consumo": "177",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "190722",
+    "Conta": "Luz",
+    "Data": "07/2022",
+    "Consumo": "190",
+    "Dias_de_Consumo": "32",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "160822",
+    "Conta": "Luz",
+    "Data": "08/2022",
+    "Consumo": "169",
+    "Dias_de_Consumo": "29",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "170922",
+    "Conta": "Luz",
+    "Data": "09/2022",
+    "Consumo": "179",
+    "Dias_de_Consumo": "30",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "181022",
+    "Conta": "Luz",
+    "Data": "10/2022",
+    "Consumo": "187",
+    "Dias_de_Consumo": "33",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "151122",
+    "Conta": "Luz",
+    "Data": "11/2022",
+    "Consumo": "151",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "141222",
+    "Conta": "Luz",
+    "Data": "12/2022",
+    "Consumo": "144",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "200123",
+    "Conta": "Luz",
+    "Data": "01/2023",
+    "Consumo": "200",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "200223",
+    "Conta": "Luz",
+    "Data": "02/2023",
+    "Consumo": "201",
+    "Dias_de_Consumo": "30",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "190323",
+    "Conta": "Luz",
+    "Data": "03/2023",
+    "Consumo": "193",
+    "Dias_de_Consumo": "29",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "140423",
+    "Conta": "Luz",
+    "Data": "04/2023",
+    "Consumo": "147",
+    "Dias_de_Consumo": "29",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "170523",
+    "Conta": "Luz",
+    "Data": "05/2023",
+    "Consumo": "177",
+    "Dias_de_Consumo": "32",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "180623",
+    "Conta": "Luz",
+    "Data": "06/2023",
+    "Consumo": "185",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "210723",
+    "Conta": "Luz",
+    "Data": "07/2023",
+    "Consumo": "211",
+    "Dias_de_Consumo": "32",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "170823",
+    "Conta": "Luz",
+    "Data": "08/2023",
+    "Consumo": "170",
+    "Dias_de_Consumo": "29",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "210923",
+    "Conta": "Luz",
+    "Data": "09/2023",
+    "Consumo": "211",
+    "Dias_de_Consumo": "30",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "211023",
+    "Conta": "Luz",
+    "Data": "10/2023",
+    "Consumo": "211",
+    "Dias_de_Consumo": "33",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "281123",
+    "Conta": "Luz",
+    "Data": "11/2023",
+    "Consumo": "282",
+    "Dias_de_Consumo": "33",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "181223",
+    "Conta": "Luz",
+    "Data": "12/2023",
+    "Consumo": "182",
+    "Dias_de_Consumo": "29",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "220124",
+    "Conta": "Luz",
+    "Data": "01/2024",
+    "Consumo": "227",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "320224",
+    "Conta": "Luz",
+    "Data": "02/2024",
+    "Consumo": "327",
+    "Dias_de_Consumo": "31",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "270324",
+    "Conta": "Luz",
+    "Data": "03/2024",
+    "Consumo": "271",
+    "Dias_de_Consumo": "28",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  },
+  {
+    "Id": "320424",
+    "Conta": "Luz",
+    "Data": "04/2024",
+    "Consumo": "324",
+    "Dias_de_Consumo": "32",
+    "Pago": "Sim",
+    "Unidade_Medida": "kWh"
+  }
+]
