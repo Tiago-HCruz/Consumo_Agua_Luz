@@ -1,14 +1,6 @@
 [
   {
     "Conta": "Água",
-    "Data": "09/2021",
-    "Consumo": "19",
-    "Dias_de_Consumo": "28",
-    "Pago": "Sim",
-    "Unidade_Medida": "m³"
-  },
-  {
-    "Conta": "Água",
     "Data": "04/2022",
     "Consumo": "15",
     "Dias_de_Consumo": "28",
