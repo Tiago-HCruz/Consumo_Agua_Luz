@@ -1,21 +1,12 @@
 [
   {
-    "Id": "190921",
-    "Conta": "Água",
-    "Data": "09/2021",
-    "Pago": "Sim",
-    "Consumo_Medio_Diario": 679,
-    "Unidade_Medida": "L",
-    "Despesa": 0
-  },
-  {
     "Id": "150422",
     "Conta": "Água",
     "Data": "04/2022",
     "Pago": "Sim",
     "Consumo_Medio_Diario": 536,
     "Unidade_Medida": "L",
-    "Despesa": -143
+    "Despesa": 0
   },
   {
     "Id": "200522",
