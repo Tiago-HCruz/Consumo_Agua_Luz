@@ -1,14 +1,5 @@
 [
   {
-    "Id": "190921",
-    "Conta": "Água",
-    "Data": "09/2021",
-    "Consumo": "19",
-    "Dias_de_Consumo": "28",
-    "Pago": "Sim",
-    "Unidade_Medida": "m³"
-  },
-  {
     "Id": "150422",
     "Conta": "Água",
     "Data": "04/2022",
