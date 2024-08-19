@@ -1,4 +1,4 @@
-#* @apiTitle API Sobre os Consumo de Água e Luz
+#* @apiTitle API sobre o consumo de água e energia
 #* @apiDescription Registros de consumo da conta de agua e luz de uma residencia
 #* ao longo dos meses.
 #* @apiTag Registros Permite adicionar novos registros de conta de agua ou luz no banco de dados,
