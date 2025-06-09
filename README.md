@@ -1,3 +1,9 @@
-Consumo De Agua e Luz
+[Consumo De Agua e Luz](https://app.powerbi.com/view?r=eyJrIjoiMzM5N2NhNTgtMjkzNi00MGFiLWE0Y2ItOThlMDAyOGE2OWVmIiwidCI6IjA1OTIzMjI3LWZhMGYtNDVmMC1hMGMzLTY4ZjA3MWM2ZDBkMCJ9)
 
-https://app.powerbi.com/view?r=eyJrIjoiMzM5N2NhNTgtMjkzNi00MGFiLWE0Y2ItOThlMDAyOGE2OWVmIiwidCI6IjA1OTIzMjI3LWZhMGYtNDVmMC1hMGMzLTY4ZjA3MWM2ZDBkMCJ9
+Esse relatório (realizada pelo software Power BI com DAX) tem como objetivo analisar e observar o controle do consumo de água e energia mensal (ao atender o cliente, se houve aumento ou diminuição), como também demostrar pelo gráfico de controle, a sua eficiência ao relatar que as demais informações pode ilustra fatos errados sobre a situação e resultados adicionais interpretativo, como a variabilidade do consumo. Vale ressaltar que as observações de consumo são fictícios de uma residência e implementado no banco de dados por uma API (criada pelo software Linguagem R) desenvolvida pelo mesmo. Como também, foi utilizado Python com a biblioteca Pandas para adicionar as variáveis do consumo médio diário e a despesa (A diferença de consumo entre o mês atual analisada e o anterior) que foram utilizado nesse projeto. Dessa maneira, teve algumas interpretações sobre o consumo médio diário:
+
+ • Água: Por mais que as informações demonstra um aumento do consumo, o gráfico de controle demonstra que por todo período a variação do consumo de água permaneceu o mesmo (sem um acréscimo ou uma diminuição) entre 388 litros e 799 litros com média de 594 litros.
+
+ • Energia: Embora os resultados do gráfico e cartão sobre a despesa e consumo, aparenta uma diminuição do consumo, entretanto, para o gráfico de controle, demonstra uma ocorrência de aumento do consumo em 2023 de setembro até 2024 de maio com o consumo (feito a conversão da variável transformada) entre 5.348 Wh e 16.666 Wh, ao possuir a média de 8.130 Wh. 
+
+Obs.: Para mais informações, acesse o link do dashboard disponível no topo dessa publicação.
